@@ -1,4 +1,4 @@
-# SOEN-6111
+# Credit Card Score Forecaster withSupervised Learning
 
 ## Big Data Analytics Project
 
